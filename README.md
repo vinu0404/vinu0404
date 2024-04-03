@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinay kumar</h1>
+<h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate Engineer about Machine learning and Data Analysis</h3>
 
 - 🔭 I’m currently working on [Fashion-Blend-Diffusion-Model](https://github.com/vinu0404/Fashion-Blend-Diffusion-Model.git)
