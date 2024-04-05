@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
-<h3 align="center">A passionate Engineer about Machine learning and Data Analysis</h3>
-
-- 🔭 I’m currently working on [Fashion-Blend-Diffusion-Model](https://github.com/vinu0404/Fashion-Blend-Diffusion-Model.git)
+<h3 align="center">A passionate Engineer about Machine learning and Data Analytics</h3>
 
 - 🌱 I’m currently learning **Transformers and Diffusion Model**
+
+- 🔭 I’m currently working on [Fashion-Blend-Diffusion-Model](https://github.com/vinu0404/Fashion-Blend-Diffusion-Model.git)
 
 - 👯 I’m currently working on [A-Chrome-extension-for-checking-Fake-website-Url-Phishing-using-XGBoost](https://github.com/vinu0404/A-Chrome-extension-for-checking-Fake-website-Url-Phishing-using-XGBoost.git)
 
