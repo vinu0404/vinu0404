@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Fashion-Blend-Diffusion-Model](https://github.com/vinu0404/Fashion-Blend-Diffusion-Model.git)
 
 - My Resume [https://drive.google.com/file/d/1pEi68GTaaG4TGEk2GBJzlr8d1rPVgIJq/view?usp=drive_link](https://drive.google.com/file/d/1pEi68GTaaG4TGEk2GBJzlr8d1rPVgIJq/view?usp=drive_link)
-
+- My Portflio(https://www.datascienceportfol.io/VinayKumar04)
 - 📫 How to reach me **ursvinu18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
