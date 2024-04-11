@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [Fashion-Blend-Diffusion-Model](https://github.com/vinu0404/Fashion-Blend-Diffusion-Model.git)
 
-- 👯 I’m currently working on [A-Chrome-extension-for-checking-Fake-website-Url-Phishing-using-Machine Learning](https://github.com/vinu0404/A-Chrome-extension-for-checking-Fake-website-Url-Phishing-using-XGBoost.git) too
-
 - My Resume [https://drive.google.com/file/d/1pEi68GTaaG4TGEk2GBJzlr8d1rPVgIJq/view?usp=drive_link](https://drive.google.com/file/d/1pEi68GTaaG4TGEk2GBJzlr8d1rPVgIJq/view?usp=drive_link)
 
 - 📫 How to reach me **ursvinu18@gmail.com**
