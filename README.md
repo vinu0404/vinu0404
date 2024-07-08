@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Fashion-Blend-Diffusion-Model](https://github.com/vinu0404/Fashion-Blend-Diffusion-Model.git)
 
-- My Resume [https://drive.google.com/file/d/1pEi68GTaaG4TGEk2GBJzlr8d1rPVgIJq/view?usp=drive_link](https://drive.google.com/file/d/1pEi68GTaaG4TGEk2GBJzlr8d1rPVgIJq/view?usp=drive_link)
+- My Resume [https://drive.google.com/file/d/1c1pXjrfkwa2Z96VhdHHagMF7BI942aL8/view?usp=sharing](https://drive.google.com/file/d/1c1pXjrfkwa2Z96VhdHHagMF7BI942aL8/view?usp=sharing)
 - My Portflio(https://www.datascienceportfol.io/VinayKumar04)
 - 📫 How to reach me **22cd3034@rgipt.ac.in**
 
