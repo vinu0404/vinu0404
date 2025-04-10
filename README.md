@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay Kumar</h1>
 <h3 align="center">A passionate Engineer about Machine learning and Data Analytics</h3>
 
-- 🌱 I’m currently learning **Transformers and Geneartive AI**
+- 🌱 I’m currently learning **Geneartive AI**
 
 - My Resume [https://drive.google.com/file/d/1c1pXjrfkwa2Z96VhdHHagMF7BI942aL8/view?usp=sharing](https://drive.google.com/file/d/1c1pXjrfkwa2Z96VhdHHagMF7BI942aL8/view?usp=sharing)
 - My Portflio(https://www.datascienceportfol.io/VinayKumar04)
